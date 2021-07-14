@@ -4,6 +4,8 @@ Este é um dos diversos layouts que a página Frontend mentor oferece, com o obj
 Assim, são fornecidas algumas informações básicas, como as cores e as imagens, para facilitar a criação do projeto.
 Diante disso, decidi fazer este layout com a intenção de praticar HTML e CSS, e foi ÓTIMO!
 
+Frontend Mentor - Social proof section: https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
+
 ## Desafios 
 
 Enquanto criava o meu documento HTML, não passei por muitas frustrações, já que fiz de uma maneira bem simples, usando "divs" para dividir o layout
